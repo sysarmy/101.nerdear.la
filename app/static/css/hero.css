@@ -112,7 +112,7 @@ video {
 	max-width: 1100px; /* maximum size */
 	min-width: 150px; /* minimum size */
 	height: 150px;
-	background: url("/static/img/logos/nerdearla-detailed-no-bg.svg") no-repeat top center;
+	background: url("/static/img/logos/logo101.svg") no-repeat top center;
 	background-size: contain;
 	z-index: 2;
 	margin-top:5rem;
