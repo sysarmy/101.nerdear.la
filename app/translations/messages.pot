@@ -288,7 +288,7 @@ msgid "gratis"
 msgstr ""
 
 #: app/templates/components/about.html:14
-msgid "Sobre Nerdearla101"
+msgid "Sobre Nerdearla 101"
 msgstr ""
 
 #: app/templates/components/about.html:25
@@ -337,7 +337,7 @@ msgid "Todo el contenido en streaming"
 msgstr ""
 
 #: app/templates/components/countdown.html:18
-msgid "&nbsp;&nbsp;&nbsp;22"
+msgid "22 NOV"
 msgstr ""
 
 #: app/templates/components/countdown.html:19
@@ -345,7 +345,7 @@ msgid "Charlas virtuales"
 msgstr ""
 
 #: app/templates/components/countdown.html:22
-msgid "23 y 24"
+msgid "23 y 24 NOV"
 msgstr ""
 
 #: app/templates/components/countdown.html:23
