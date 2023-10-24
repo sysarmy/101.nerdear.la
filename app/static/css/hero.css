@@ -189,6 +189,12 @@ video {
 	.blurb-borderless {
 		margin-top: 2rem;
 	}
+	.blurb-borderless strong {
+		display: block;
+		font-size: 3rem;
+		line-height: 1;
+		padding-top: 2rem;
+	}
 }
 
 @media screen and (max-width: 768px) {
