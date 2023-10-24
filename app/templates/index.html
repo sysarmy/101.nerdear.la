@@ -8,16 +8,10 @@ This is done for code manteinability and readability
    {# Hero with the title and a CTA #}
    {% include "components/hero.html" %}
 
-   {# When registration gets enabled
    <div class="bg-nerd-yellow px-5 py-3">
       {% include "components/register.html" %}
    </div>
-   #}
-   <div class="bg-trama-black-1 px-5 py-3">
-      {# This generates the FAQ #}
-      {# {% include "components/faq.html" %} #}
-     {% include "components/contact.html" %}
-   </div>
+   
    {# Countdown till the start of the event #}
    <div class="bg-nerd-darkblue py-5">{% include "components/countdown.html" %}</div>
    <div class="bg-nerd-orange bg-pattern-1 py-5">
@@ -34,11 +28,11 @@ This is done for code manteinability and readability
       {# Directions to the event and Google maps iframe #}
       {% include "components/location.html" %}
    </div>
-   {# <div class="bg-trama-black-1 px-5 py-3"> #}
+   <div class="bg-trama-black-1 px-5 py-3">
       {# This generates the FAQ #}
       {# {% include "components/faq.html" %} #}
-     {# {% include "components/contact.html" %} #}
-   {# </div> #}
+     {% include "components/contact.html" %}
+   </div>
    <div class="bg-nerd-yellow px-5 py-3">
       {% if not sponsors_error %}
          <h2 class="text-center fw-bold my-5">{{ _("Nerdearla 101 es posible gracias a") }}</h2>
@@ -46,7 +40,7 @@ This is done for code manteinability and readability
             {% include "components/sponsors_generator.html" %}
             <div class="d-flex flex-column align-items-center justify-content-center mb-5">
                <a href='{{ url_for("sponsors", lang_code=lang_code) }}'
-                  class="custom_button my-3">{{ _("Conocé todos los sponsors") }}</a>
+                  class="custom_button my-3">{{ _("Conoce a todos los sponsors") }}</a>
             </div>
          </div>
       {% endif %}
