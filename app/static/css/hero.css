@@ -184,10 +184,16 @@ video {
 /* Media Query for smaller screens */
 @media screen and (max-width: 768px) {
 	.blurb, .blurb-borderless {
-		font-size: 1.5rem; /* Adjust font size for smaller screens */
+		font-size: 1.4rem; /* Adjust font size for smaller screens */
 	}
 	.blurb-borderless {
 		margin-top: 2rem;
+	}
+	.blurb-borderless strong {
+		display: block;
+		font-size: 3rem;
+		line-height: 1;
+		padding-top: 2rem;
 	}
 }
 

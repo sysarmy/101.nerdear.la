@@ -18,6 +18,9 @@
 .countdown {
 	padding: 1rem 0 3rem;
 }
+.timer {
+	flex-wrap: wrap;
+}
 .countdown h2,
 .countdown h3,
 .timer-wrapper h2 {
