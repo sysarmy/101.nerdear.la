@@ -8,6 +8,7 @@
 	letter-spacing: 0.2em;
 	line-height: 0.85;
 	width: 100%;
+	word-wrap: break-word;
 }
 .about iframe {
 	margin: 1rem 2rem 2rem;
