@@ -301,16 +301,11 @@ msgid "Sobre Nerdearla 101"
 msgstr "About Nerdearla 101"
 
 #: app/templates/components/about.html:25
-msgid ""
-"Desde 2014 nos dedicamos a organizar una conferencia de clase mundial,\n"
-"            completamente gratuita, con contenido de vanguardia y en español."
-msgstr "Since 2014, our goal has been to organize a world-class event for people in Latin America, with top speakers and 100% free for attendees."
+msgid "Desde 2014 nos dedicamos a organizar una conferencia de clase mundial, completamente gratuita, con contenido de vanguardia y en español."
+msgstr "Since 2014, our goal has been to organize a world-class event for people in Latin America, with top speakers and free for attendees."
 
 #: app/templates/components/about.html:30
-msgid ""
-"Nerdearla 101 está pensado para estudiantes y gente que está dando\n"
-"               sus primeros pasos en tecnología. Se trata de un ciclo de charlas, talleres y actividades\n"
-"                para aprender de líderes de la industria."
+msgid "Nerdearla 101 está pensado para estudiantes y gente que está dando sus primeros pasos en tecnología. Se trata de un ciclo de charlas, talleres y actividades para aprender de líderes de la industria."
 msgstr "Nerdearla 101 is focused on students and people in their first years of their careers in tech. It's an event full of talks, workshops and activities to grow your network and learn from industry leaders."
 
 #: app/templates/components/contact.html:6
@@ -484,6 +479,6 @@ msgid "El evento es"
 msgstr "The event is"
 
 #: app/templates/components/statistics.html:50
-msgid "gratuito, desde el día 0."
-msgstr "100% free, from day 0."
+msgid "El evento es gratuito, desde el día 0."
+msgstr "The event is free, from day 0."
 
