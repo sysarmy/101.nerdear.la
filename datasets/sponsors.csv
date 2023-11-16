@@ -9,7 +9,7 @@ MediaStream								   ,Platinum	   ,mediastream.svg         ,https://sysar.my/me
 Oracle                                     ,Gold           ,oracle.svg              ,https://sysar.my/oracle
 Red Hat                                    ,Gold           ,redhat.svg              ,https://sysar.my/redhat
 NEORIS                                     ,Gold           ,neoris.svg              ,https://sysar.my/neoris
-Linux Professional Institute               ,GOld       ,lpi.svg                 ,https://sysar.my/lpi
+Linux Professional Institute               ,Gold           ,lpi.svg                 ,https://sysar.my/lpi
 AreaTres                                   ,Gold           ,areatres.svg            ,https://sysar.my/areatres
 Computer History Museum                    ,Nos apoyan     ,chm.png                 ,https://sysar.my/chm
 Open Source Initiative                     ,Nos apoyan     ,osi.png                 ,https://sysar.my/osi
@@ -17,11 +17,17 @@ ISOC                                       ,Nos apoyan     ,isoc.png            
 The Linux Fundation                        ,Nos apoyan     ,linuxfundation.png      ,https://www.linuxfoundation.org
 Planetario                                 ,Nos apoyan     ,planetario.svg          ,https://planetario.buenosaires.gob.ar
 Museo de Informática                       ,Nos apoyan     ,museoinformatica.png    ,https://sysar.my/museoinformatica
+DCC                                        ,Nos apoyan     ,dcc.svg                 ,https://www.dcc.uchile.cl/
+Universidad Finis Terrae                   ,Nos apoyan     ,finis.png               ,https://ingenieria.uft.cl/
 Facultad de Ingeniería y Ciencias - UDP	   ,Nos apoyan	   ,udp.png					,https://eit.udp.cl/
+Talento Digital para Chile                 ,Nos apoyan     ,talentodigital.png      ,https://www.talentodigitalparachile.cl
+Carrera Linux                              ,Nos apoyan     ,carreralinux.svg        ,https://www.carreralinux.cl
+4geeks                                     ,Nos apoyan     ,4geeks.svg              ,https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago
 Huesped                                    ,Nos apoyan     ,huesped.svg             ,https://www.huesped.org.ar
 El Gato y La Caja                          ,Nos apoyan     ,elgatoylacaja.svg       ,https://sysar.my/elgatoylacaja
 Pangea Cooperativa						   ,Nos apoyan     ,pangea.svg              ,https://www.pangeacooperativa.com
 Eidos                                      ,Nos apoyan     ,eidos.svg               ,https://www.eidosglobal.org
+Mujeres en Tecnología                      ,Nos apoyan     ,met.svg                 ,https://mujeresentecnologia.org/
 Abstracta                                  ,Nos apoyan     ,abstracta.svg           ,https://abstracta.us
 ITgrarte                                   ,Nos apoyan     ,itgrarte.png            ,https://sysar.my/itgrarte
 ADVA                                       ,Nos apoyan     ,adva.svg                ,https://adva.vg
@@ -29,6 +35,7 @@ Fundación FLOR                             ,Nos apoyan     ,flor.svg           
 TransTI                                    ,Nos apoyan     ,transti.svg             ,https://trans-ti.com
 ATDT INFORMATICA SRL                       ,Nos apoyan     ,atdt.png                ,https://atdt.com.ar
 Escuela de Datos Vivos                     ,Nos apoyan     ,escueladedatosvivos.svg ,https://www.escueladedatosvivos.ai
+Mibucle                                    ,Nos apoyan     ,mibucle.svg             ,https://www.mibucle.com
 Cámara Argentina de Comercio Electrónico   ,Nos apoyan     ,cace.png                ,https://cace.org.ar
 JSChile 								   ,Comunidades    ,jschile.svg 		    ,https://jschile.org
 JSConf Chile 							   ,Comunidades    ,jsconfchile.svg         ,https://jsconf.cl
@@ -44,6 +51,7 @@ Mujeres en Crypto                          ,Comunidades    ,mujeresencrypto.png 
 Recruitment Latam                          ,Comunidades    ,recruitment_latam.svg   ,https://www.linkedin.com/company/recruitment-latam
 Mermelada Tech                             ,Comunidades    ,mermelada_tech.svg      ,https://www.youtube.com/channel/UCu4iiIYfIQKEYP7TH_-R9KQ
 Banco Galicia Comunidad DataHolic          ,Comunidades    ,galiciaDataHolic.svg    ,https://www.linkedin.com/groups/12582371/
+Hack Buenos Aires %27                      ,Comunidades    ,hackbuenosaires.svg     ,https://twitter.com/hackbuenosaires
 MEPES                                      ,Media partners ,mepes.png               ,https://sysar.my/mepes
 Hackeando Productos Podcast                ,Media partners ,hackeandoproductos.svg   ,https://www.linkedin.com/company/hackeandoproductos/
 Software Gurú                              ,Media partners ,softwareguru.svg        ,https://sg.com.mx/eventos-sg
